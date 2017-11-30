@@ -1,0 +1,17 @@
+.menue {
+	float: left;
+	text-align: left;
+	margin: 3px;
+	padding: 20px;
+}
+
+.ueberschrift {
+	float: left;
+	width: auto;
+	text-align: center;
+	text-decoration: underline;
+
+}
+li	{
+	list-style-type: none;
+}
